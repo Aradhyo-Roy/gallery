@@ -1,0 +1,12 @@
+body{text-align: center;
+    background: linear-gradient(#f00 0%,#ffa500 100%);
+}
+#mycarousel{background-color:gold;
+text-align: center;
+}
+#mycarousel img{height: 700px;
+margin-top: 40px;
+}
+.carousel-inner p{margin-top: 10px;
+margin-bottom: 10px;
+}
